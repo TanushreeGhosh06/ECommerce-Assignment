@@ -79,3 +79,22 @@ If you are developing a production application, we recommend using TypeScript wi
 - Adaptive grid layout for all pages
 
 ---
+## Difficulties Faced in This Project
+
+> During the development of this e-commerce project, I faced a few challenges:
+
+- Handling cart data and authentication state across multiple components using Context API required careful structuring to avoid data inconsistency.
+- Making the navbar, footer, and cart page fully responsive across mobile, tablet, and desktop screens took multiple iterations and testing.
+- Managing quantity updates, removing items, and calculating the total price dynamically required proper logic handling to avoid UI bugs.
+
+---
+## Future Scope of the Project
+
+> This project can be enhanced further with several advanced features:
+
+- Connect with a backend (Node.js) for real product data, authentication, and order management.
+- Secure login/signup system with token-based authentication.
+- Add payment options like Razorpay/Stripe for real checkout experience.
+- Track previous orders for logged-in users.
+- Implement an AI-powered chatbot to assist users with product queries, order tracking, and general support to enhance user experience.
+
