@@ -23,6 +23,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 > A modern e-commerce web application built using React + Vite, featuring authentication, cart management, and a fully responsive UI with clean and reusable components.
 
+## Live Link 
+- https://e-commerce-assignment-3hkm.vercel.app/
+
+---
 
 ## Tech Stack
 
@@ -38,26 +42,31 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Features
 
 ### Home Page
+
 - Product listing with responsive grid layout
 - Clean UI and fast rendering
 
 ### Product Page
+
 - Detailed product view
 - Proper spacing and structured layout
 
 ### Cart System
+
 - Add / remove products
 - Quantity update functionality
 - Dynamic total price calculation
 - Cart badge in navbar
 
 ### Authentication
+
 - Login system (frontend-based)
 - Context API for user state management
 - Profile icon appears after login
 - Dropdown with username + logout option
 
 ### Navbar
+
 - Fully responsive navigation bar
 - Hover underline animation on links
 - Cart item counter badge
@@ -65,6 +74,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Mobile hamburger menu support
 
 ### Footer
+
 - Fully responsive multi-column layout
 - Quick navigation links (Home, Cart, Login)
 - Contact information
@@ -81,6 +91,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Adaptive grid layout for all pages
 
 ---
+
 ## Difficulties Faced in This Project
 
 > During the development of this e-commerce project, I faced a few challenges:
@@ -100,3 +111,4 @@ If you are developing a production application, we recommend using TypeScript wi
 - Track previous orders for logged-in users.
 - Implement an AI-powered chatbot to assist users with product queries, order tracking, and general support to enhance user experience.
 
+---
