@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-# 🛒 ShopEase
+# ShopEase
 
 > A modern e-commerce web application built using React + Vite, featuring authentication, cart management, and a fully responsive UI with clean and reusable components.
 
